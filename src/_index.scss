@@ -1,0 +1,19 @@
+$background-dark: rgb(35, 35, 35);
+$background-light: rgb(45, 45, 45);
+
+$font-color-light: rgb(204, 204, 204);
+$font-color-dark: rgb(128, 128, 128);
+
+$font-family: Myriad Pro, -apple-system, Roboto, "Helvetica Neue";
+
+body {
+  margin: 0px;
+  overflow: hidden;
+  background-color: $background-dark;
+  width: 100vw;
+  height: 100vh;
+}
+.App {
+  width: 100vw;
+  height: 100vh;
+}
